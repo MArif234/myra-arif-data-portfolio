@@ -8,7 +8,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/MArif234/myra-arif-data-portfolio
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU! I will be working on creating a variety of data visualizations, and we'll be using tools that involve design, code, and data. I'm excited to show you the projects I am working. If you would like more details or would like to hire me, please contact me at myraa@andrew.cmu.edu. 
 
 # About me
 Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
