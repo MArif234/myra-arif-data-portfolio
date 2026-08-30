@@ -27,6 +27,9 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
 After I graduate, I hope to be working as a Product Manager at an EdTech or design company. I am passionate about using data to then create tools that increase accessibility so I am exploring internship and full time job opportunities related to this. 
 
 # Portfolio
+## Visualization for Government Debt
+## Design Critiques
+## Final Project (something first gen student related - stay tuned!)
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
