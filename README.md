@@ -11,20 +11,20 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU! I will be working on creating a variety of data visualizations and will be using tools that involve design, code, and data. I'm excited to show you the projects I am working on. If you would like more details or would like to hire me, please contact me at myraa@andrew.cmu.edu. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I'm Myra, and I am an Information Systems Management master's student at Carnegie Mellon University. My undergraduate degree is from Stony Brook University, where I majored in Applied Mathematics, Statistics, and Physics. I'm passionate about using tech and data to increase information access for underserved populations. 
+
+A current project that I am working on is a directory of organizations for first-generation college students. There are a lot of organizations and groups out there that are trying to increase information access for first-generation college students. These organizations help with different aspects of college, such as professional development, mentoring, and scholarships. My goal is to use tech to organize that information in one place so students don't have to be searching for this information for hours. 
+
+Throughout this portfolio, you will see a variety of different data projects that I've worked on and I hope you find them as interesting as I found making them!
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. Learning how to make data visualizations that are easy to understand
+2. Learning the basics of design (they don't teach you this while learning physics unfortunately)
+3. Learning how to effectively communicate what insights I found through a visualization
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
+After I graduate, I hope to be working as a Product Manager at an EdTech or design company. I am passionate about using data to then create tools that increase accessibility so I am exploring internship and full time job opportunities related to this. 
 
 # Portfolio
 
