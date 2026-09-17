@@ -36,34 +36,13 @@ With this visual, I wanted to keep the majority of the design the same as before
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+For this critique, I talked to three Heinz College students about what they thought was working with my visual and what was not working. To start, I did not show them the original visual and showed them both bar charts and did not give them any context. 
 
-Questions to ask (modify these for your own interviews): 
+They liked both of the titles for the visuals because they said that they told a clear story. They also thought the visuals, overall, were simple enough to understand and the labels for the jobs were clear. They thought the design idea for the second sketch was better because they felt that coloring all of the bars was quite redundant. They also felt that for the second visual, only highlighting the bar for the telemarketers was quite misleading because Data Entry Keyers and Switchboard Operators have similar risk scores to Telemarketers. They also thought Job Risk Score was a percentage rather than a number on a scale. They recommended that my next visualization have a small blurb explaining Job Risk Score. They also thought I should add more jobs from the data that have a Risk Score between 30-70 to also illustrate jobs that may or may not be at risk due to AI emergence. They felt that I could after I add more jobs, I could even highlight the first two to three jobs that were at most risk for being replaced by AI in red rather than just highlighting the job with the highest Risk Score. 
 
-- Can you tell me what you think this is?
+Overall, the main feedback was about clarifying what Job Risk is and representing more jobs that were in the data instead of focusing on the extremes. I learned that I may have been a bit misleading with highlighting telemarketers in the second visual because administrative jobs are at the highest risk for being replaced, not just telemarketers even though they do have the highest Risk Score. 
 
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+The design changes I will be making with be somewhat combining both of these sketches to tell a more clear story. I will be following the design of the second sketch but instead highlighting the top administrative job bars in a red color. I will add more bars for jobs that have a Job Risk Score between 30-80. The title will be talking about how administrative jobs are at risk. 
 
 ## Step five: build the solution
 
