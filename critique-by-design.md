@@ -16,7 +16,7 @@ Takeuchi, T. (2026). Is your job safe? Tableau Public. Retrieved September 16, 2
 
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+Overall, I find this visual to be a bit confusing. Starting off with things that I did like about this visual: the title is decent. When you make a visual with a question such as "Is your job safe?" and you have bubbles with occupations, immediately the audience is going to know what you're talking about. Denoting high risk as red and low risk as blue was simple and I could easily understand the diagram through the key. However, there are a variety of problems with the usefulness of this visual. To start, when I compared the occupations that were in the diagram with what was written in the data, some of the occupations were cut off. Additionally, they decided to use circles to denote which occupations were most at risk due to AI. This made the visual quite unclear because circles such as telephone operators and order clerks have similar sizes, as well as telemarketers and data entry keyers. This could easily confuse the viewer because they're not going to be able to know at first glance which job is most at risk due to AI. Also, in the key, they had a blue circle for lowest risk and a red circle for highest risk, but the blue circle was never used in the visual, so I'm confused why it was there to begin with. Also, the caption talks about how some jobs will be disappearing because of AI and some will be more valuable than now, but the actual visual only illustrates jobs that are threatened due to AI emergence. I would prefer a more simpler visual that tells a clear story. 
 
 ## Step three: Sketch a solution
 
