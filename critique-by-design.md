@@ -20,9 +20,11 @@ Overall, I find this visual to be a bit confusing. Starting off with things that
 
 ## Step three: Sketch a solution
 
-The first sketch I decided to make was as follow: 
+The first sketch I decided to make was as follows: 
 
 <img width="858" height="988" alt="0" src="https://github.com/user-attachments/assets/6ea0efab-89dc-4f8a-a86a-8fa0223287ef" />
+
+I knew I wanted to do a simple visual that will numerically highlight which jobs were most at risk at being replaced due to AI. 
 
 
 ## Step four: Test the solution
