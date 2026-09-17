@@ -26,6 +26,13 @@ The first sketch I decided to make was as follows:
 
 I knew I wanted to do a simple visual that would numerically highlight which jobs were most at risk for being replaced due to AI. I also wanted to include jobs that did not have as high of a risk because the original visualization did not take that into account. I did a horizontal bar graph because I felt that the job titles would be too difficult to read if the labels were on the x-axis. I used a red gradient because I wanted to show that jobs that were a lighter red were safe and if the job had a bar with a darker shade of red, it was a lot more at risk. I believe this visualization did a great job with highlighting that administrative jobs were most at risk because I felt like the darkest bars would be the first place the viewer would look. I also put the actual risk score number next to the bars so the viewer could clearly see which jobs were most at risk. However, I wanted to try another sketch where there was less color. 
 
+My other sketch was as follows: 
+
+<img width="874" height="988" alt="0" src="https://github.com/user-attachments/assets/0114fbcb-457d-40f4-9681-17c686459771" />
+
+With this visual, I wanted to keep the majority of the design as before but I wanted to see if the bar graph would look more clear if there was less color involved. 
+
+
 
 ## Step four: Test the solution
 
