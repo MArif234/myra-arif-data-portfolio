@@ -30,7 +30,7 @@ My other sketch was as follows:
 
 <img width="874" height="988" alt="0" src="https://github.com/user-attachments/assets/0114fbcb-457d-40f4-9681-17c686459771" />
 
-With this visual, I wanted to keep the majority of the design as before but I wanted to see if the bar graph would look more clear if there was less color involved. 
+With this visual, I wanted to keep the majority of the design the same as before but I wanted to see if the bar graph would look more clear if there was less color involved. For this specific visual, I focused more on telemarketers because they had the highest risk score. For context, risk score is scaled from 1-100 where 1 is a low risk score (unlikely to be replaced by AI) and 100 is a high risk score (highly likely to be replaced by AI). I changed the title for this to focus more on how telemarketers were most at risk of being replaced. I felt the grey really helped highlight a certain job. I believe the original visual's audience were people working in these careers and they wanted to clearly see how much their careers were at risk. The title is also specific so I felt this visual told a clearer story. 
 
 
 
