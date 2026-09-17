@@ -20,6 +20,11 @@ Overall, I find this visual to be a bit confusing. Starting off with things that
 
 ## Step three: Sketch a solution
 
+The first sketch I decided to make was as follow: 
+
+<img width="858" height="988" alt="0" src="https://github.com/user-attachments/assets/6ea0efab-89dc-4f8a-a86a-8fa0223287ef" />
+
+
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
