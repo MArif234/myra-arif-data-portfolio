@@ -4,8 +4,6 @@
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
-
 This is the original data visualization: 
 
 <div class='tableauPlaceholder' id='viz1789558659144' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MakeoverMonday202616&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MakeoverMonday202616&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MakeoverMonday202616&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>   
@@ -13,6 +11,7 @@ This is the original data visualization:
 Takeuchi, T. (2026). Is your job safe? Tableau Public. Retrieved September 16, 2026, from     
   https://public.tableau.com/app/profile/toru.takeuchi/viz/MakeoverMonday202616/Dashboard1. 
 
+I chose this visualization because I am curious about what jobs are at risk now that AI is advancing at such a quick rate. Social media and the news make it seem like every job is at risk due to AI. I am curious about how the data perceives it. 
 
 
 ## Step two: the critique
@@ -46,7 +45,10 @@ The design changes I will be making with be somewhat combining both of these ske
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+For this visualization, I used a combination of Microsoft Copilot and Google Gemini. I started in Copilot where I first brainstormed what the title of the visualization should be. I told Copilot how I was trying to create a title that highlighted how administrative jobs are at risk due to AI. It gave me a couple of title ideas but eventually, I came up with "Administrative Jobs at Risk due to AI Emergence." I then created a prompt with data from https://www.aiexposure.org/rankings and my second sketch. I then asked it to generate an image with the first 3 bars of the bar chart highlighted. There were a variety of issues with formatting and aesthetics. For each iteration, Microsoft Copilot was generating a new Python script that was making the image. After about six new image generations, the Copilot was no longer able to generate the image so I copied its script and then had Google Gemini generate the image. The final version of the visualization came out as follows: 
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/c79f0aa2-1add-4c1f-9687-db4d0043958f" />
+
 
 ## References
 _List any references you used here._
