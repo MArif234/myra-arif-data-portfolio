@@ -49,10 +49,16 @@ For this visualization, I used a combination of Microsoft Copilot and Google Gem
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/c79f0aa2-1add-4c1f-9687-db4d0043958f" />
 
+Overall, I believe the image came out quite well. If I were to improve this visualization further, I would remove the Y character on the middle left of the image and I might change the dark background. Overall, I believe the visualization tells a clear story about the data. 
+
 
 ## References
-_List any references you used here._
+Takeuchi, T. (2026). Is your job safe? Tableau Public. Retrieved September 16, 2026, from     
+  https://public.tableau.com/app/profile/toru.takeuchi/viz/MakeoverMonday202616/Dashboard1. 
+Data from: https://www.aiexposure.org/rankings
+Microsoft Copilot: https://copilot.microsoft.com/
+Google Gemini: https://gemini.google.com/app
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I use Microsoft Copilot to help brainstorm the title of the final version of my image, part of the color scheme (made it a black background through modifications), and the actual Python script that created the image. I then took Copilot's Python script for the image and used Google Gemini to create the actual visualization.
 
