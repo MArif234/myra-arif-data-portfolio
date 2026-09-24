@@ -35,27 +35,71 @@ My call to action in this case addresses three different types of people:
 - If they're technological builders, I would encourage them to also create tools that increase information accessibility.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+At this stage, I am not certain about what my visualizations will be. I do know that it will be a combination of bar charts, possibly pie charts, and maybe tables. I will be making the majority, if not all, of my visuals via Lovable, and I will be screenshotting them or slightly changing them for my presentation. I have made some demos and sketches via Microsoft Copilot, so I will be sharing some examples of what I plan to do below:
+
+Table Idea: Demographics
+
+For the demographics, I feel like showing them as a table to show how much variety there is between the ethnicities of first-generation college students. Be good for introducing the topic
+
+| Race/Ethnicity  | First-Generation |
+| --------------- | ---------------: |
+| Latino          |            45.8% |
+| Black           |            32.1% |
+| Native American |            28.2% |
+| Asian           |            27.2% |
+| White           |            16.7% |
+
+Pie Chart Idea: First Gen vs Continuing Gen
+
+<img width="1051" height="760" alt="image" src="https://github.com/user-attachments/assets/a34c9e3d-176a-44a3-aa55-1dfa5de5f77e" />
+
+I am also thinking of doing some sort of pie chart or some sort of other visual that shows that first-generation college students are the underrepresented majority. Now, in 2025, we are seeing, with undergrads, that more students are first gen than continuing gen. I will be altering this visual and also the title to reflect what I'm trying to convey. 
+
+<img width="1360" height="736" alt="image" src="https://github.com/user-attachments/assets/cb1a95a0-b417-495e-b73b-4572b27c8740" />
+
+
+
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+For my data, I have a variety of resources that I found through a Microsoft Copilot search. I may not use all of these data resources to create visualizations, but I wanted to talk about each one that I found interesting and that I may use in my project. 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+Resource #1: First Generation College Student Demographics: 
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+- Link: https://pnpi.org/wp-content/uploads/2025/02/FirstGenStudents_FactSheet_Feb25.pdf
+
+This is an older dataset from around 2019-2020. The thing that I love about this dataset is that it goes into specific demographics about what percentages correspond to first-generation college students. Talks about the percentage of first-generation college students who are Black, Latino, Asian, etc. This data is specifically interesting in the first-generation college student context because there are a lot of organizations for first-generation college students that are targeting these different ethnicities. For example, there is National Society for Black Engineers. This connects to my resource database because I'll be talking about organizations such as these societies, which connect first-generation college students who identify as these ethnicities to career resources and host networking events for them as well. This sort of dataset might be used to create a pie chart or bar chart of some sort. 
+
+Resource #2: Shocking Stats
+
+- Link: https://www.firstgenforward.org/our-insights
+
+This specifically is the page for First Gen Forward, which is an organization that does a lot of research on first-generation college students. On their page, they have recent 2025 shocking statistics about first-generation college students, specifically undergraduates. I might use these stats either just as a slide where I write them, or something just a bold visual where people immediately go to that part of the screen. Through this dataset, I'm going to illustrate that first-generation college students are the underrepresented majority. Also has data about how long it takes first-gen students to complete their bachelor's degree versus continuing-generation college students, and assessing that gap through a bar chart would be quite interesting. Their different data reports also talk about career centers in particular and whether these career centers are tailored towards helping first-gen college students. 
+
+Resource #3: Looking more Specifically at First Gen College Students and University Career Center
+
+- Link: https://www.insidehighered.com/news/student-success/academic-life/2023/09/13/survey-how-increase-belonging-among-college-students
+- Link: https://data.generationlab.org/InsideHigherEd/AnnualSurvey.html#q2
+
+This article and this database with survey answers really dive into whether first-generation college students believe that their career centers are helping them. There's a lot of data that shows that, for first-gen students, the main place where they receive mentorship and career advice is through their career centers. I really want to create visualizations and look deeper into the data to see whether career services are helping first-generation college students. It'll tie into the tool that I am building because this data will show that first-generation college students need extra guidance with things such as networking, preparing for a career fair, and presenting themselves professionally to be more successful in today's job market. 
+
+Resource #4: First-Gen Students and Internship Outcomes
+
+Link: https://naceweb.org/store/2025/research-reports/2025-student-survey-four-year/
+
+This is a dashboard that's behind a paywall, but I'm going to try to see if I can get access through the university or through the library. The resource specifically talks about internship outcomes, and it has a filter for first-generation college students, so I can look at differences between outcomes for internships for first-generation students and continuing-generation students. 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+Specifically for my project, it's going to be on shorthand and on the Layan libraries' about page. The whole story from A to Z of what I'm describing in my outline will be in shorthand. That's where I'm going to go into a lot more detail about what first-generation students are, that exact gap, and what we could be doing to help them. On the About page of the actual website, which I'm creating through Lovable, I'm going to have an entire page on why I'm building Layan Library, talking about:
+
+- first-generation college students
+- the gap that they're facing
+- whether they're able to access resources at their universities currently
+
+The majority of my visualizations will be coming from the Layan Library that I am building via Lovable. The about page for the resource I am building is going to be a lot more interactive than the Shorthand page because it's going to have features that pertain to a website. For example, for the bar charts, the bars will move as someone is scrolling down just to make the site more interactive and interesting. Over there, I'm also going to be following a certain color scheme that already goes with the tool that I'm making. On Shorthand, I will be more detailed about the first generation college student. For some of my shorthand presentation for class, I will be screenshotting some of the visuals from the Layan Library's About page or recreating them with a different color scheme. Overall, for my class presentation, it's going to be done via shorthand. For my data visualizations specifically, I will be creating them in Lovable and using prompts that were generated either through Microsoft Copilot or Gemini. Through the use of AI, I find it to be the most flexible for bringing my data visualization ideas to life, so I will mostly be relying on that tool for data visualizations. I may use Tableau here and there for simpler visualizations that I have in mind. 
+
 
 ## References
 _List any references you used here._
