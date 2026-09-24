@@ -56,7 +56,11 @@ Pie Chart Idea: First Gen vs Continuing Gen
 
 I am also thinking of doing some sort of pie chart or some sort of other visual that shows that first-generation college students are the underrepresented majority. Now, in 2025, we are seeing, with undergrads, that more students are first gen than continuing gen. I will be altering this visual and also the title to reflect what I'm trying to convey. 
 
+Bar Chart: Illustrating Differences
+
 <img width="1360" height="736" alt="image" src="https://github.com/user-attachments/assets/cb1a95a0-b417-495e-b73b-4572b27c8740" />
+
+I also will use a variety of bar charts for showing differences between first-gen and continuing-gen students. Also, we'll be using bar charts for things such as showing how many people who are First Gen are aware of certain resources but don't actually utilize the resources. This is just to show the gap in how First Gen students don't know how to use certain resources and that there is an information gap. 
 
 
 
@@ -102,7 +106,12 @@ The majority of my visualizations will be coming from the Layan Library that I a
 
 
 ## References
-_List any references you used here._
+Microsoft Copilot
+Link: https://naceweb.org/store/2025/research-reports/2025-student-survey-four-year/
+Link: https://www.insidehighered.com/news/student-success/academic-life/2023/09/13/survey-how-increase-belonging-among-college-students
+Link: https://data.generationlab.org/InsideHigherEd/AnnualSurvey.html#q2
+Link: https://www.firstgenforward.org/our-insights
+https://pnpi.org/wp-content/uploads/2025/02/FirstGenStudents_FactSheet_Feb25.pdf
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+For AI use, I specifically used Microsoft Copilot. When it came to finding resources, I was having trouble finding resources through simple Google searches, so I ran searches with Microsoft Copilot to find all the resources that I talked about in my data section. I also used Microsoft Copilot to generate the sketches for my sample sketches section. All of the ideas for this project are mine and the whole write-up is my own thoughts. I used AI for simple visual generation and finding resources for this project.  
