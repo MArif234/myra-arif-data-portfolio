@@ -77,4 +77,4 @@ https://nces.ed.gov/pubs2022/2022241.pdf
 
 
 ## AI acknowledgements
-I used Gemini to help craft images of what I'm thinking of doing for this project. I also used it to search for references that I will need for this project. The final images and visualizations will be made via Lovable, but for now I drafted things in Gemini to just get some ideas for part two. 
+I used Gemini to help craft images of what I'm thinking of doing for this project. I also used it to search for references that I will need for this project. The final images and visualizations will be made via Lovable, but for now I drafted things in Gemini to just get some ideas for part two. I also used Gemini to see what types of different data visualizations it would suggest for my project. I didn't end up using any of its suggestions, but I did use it for the brainstorming stage. 
