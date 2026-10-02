@@ -42,9 +42,39 @@ Link to Extension of Project: (Coming Soon)
 
 For Part I, I really was just trying to understand first-gen students and explain the information gap between first-gen students and continuing-gen students, but now I have focused the story on the financial knowledge gap between first-gen students and continuing-gen students. I'm going to start with the scenario of two students (one first-gen and one continuing-gen), which I feel like is a lot more clear than just jumping into the data like I was doing with part one. I'm going to then get into who first-gen students are, then the exact financial gap, and then how this tool I am making is going to help them. 
 
+I have listed the story with sample images of what I'm thinking of doing in Lovable to just show the type of story I'm telling with my visuals. Here they are: 
+
+1. Scenario with Laia and Elias
+<img width="1024" height="657" alt="image" src="https://github.com/user-attachments/assets/c59c3d2d-258c-4744-ae01-b84e84e026b2" />
+
+2. There are 8.2 million first gen students in the United States
+  <img width="942" height="535" alt="image" src="https://github.com/user-attachments/assets/0aede06c-ac3c-4f61-9bca-df70f1545ec4" />
+  
+3. Looking at where first-gen students go to school (community college, state schools, private schools, etc.)
+  <img width="942" height="472" alt="image" src="https://github.com/user-attachments/assets/acea6be5-f3af-42d1-b416-acfb126e2236" />
+  <img width="947" height="466" alt="image" src="https://github.com/user-attachments/assets/ad0c3b0c-6476-4c51-b23f-113010a7674e" />
+
+4. Talks About Financials for College do Not Happen that Often in First-Gen Households
+   <img width="820" height="441" alt="image" src="https://github.com/user-attachments/assets/a34f5e83-942c-4b74-8d4f-ff559bba382a" />
+
+5. First Gen Students Go into More Debt than Continuing Gen Students
+<img width="957" height="401" alt="image" src="https://github.com/user-attachments/assets/9bfa3517-910e-4723-8a98-821914dd997d" />
+
+6. My Call to Action is to Sign Up for the Tool
+
+Please Note: Right now, I have statistics and data from a variety of different sources. I have listed them in the references section, and some of them are labeled with the images. I will be correctly and meticulously labeling them in Part 3, so you could see exactly where everything came from. 
+
+
+
 
 ## References
-_List any references you used here._
+https://www.firstgenforward.org/
+Gemini AI
+https://www.salliemae.com/about/leading-research/how-america-completes-college/
+https://pnpi.org/wp-content/uploads/2025/02/FirstGenStudents_FactSheet_Feb25.pdf
+https://nces.ed.gov/programs/coe/indicator/cua/price-of-attending-an-undergraduate-institution
+https://nces.ed.gov/pubs2022/2022241.pdf
+
 
 ## AI acknowledgements
-I used Gemini to help craft images of what I'm thinking of doing for this project. The final images and visualizations will be made via Lovable, but for now I drafted things in Gemini to just get some ideas for part two. 
+I used Gemini to help craft images of what I'm thinking of doing for this project. I also used it to search for references that I will need for this project. The final images and visualizations will be made via Lovable, but for now I drafted things in Gemini to just get some ideas for part two. 
