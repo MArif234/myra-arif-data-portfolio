@@ -8,12 +8,10 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+My target audience is first-generation undergraduate students in the United States. A lot of the tools and organizations that I will be talking about through my tool also have to do with graduate students, but my main focus is first-generation undergraduate students. This whole tool is basically a commercial for my first-generation student college tool called the Layan Library, where it's going to have tech-based tools and a database of organizations that can help them. Specifically for this part, I'm going to be focusing on the financial aspect of it and telling a story about how first-generation college students need information about financials specifically related to college. The data has shown they graduate with more debt than continuing generation students, so the information gap definitely is there. 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+I did 
 
 Text here!
 
@@ -23,6 +21,15 @@ Text here!
 |      |                  |
 |      |                  |
 
+Goal: Whether the story is clear
+Questions to Ask:
+- Do the visuals tell a clear story?
+- Are the visuals and graphics easy to read?
+- Is this too much information being thrown at you at once?
+
+Goal: Was the project aesthetically good?
+Questions to Ask: 
+- 
 
 Text here!
 
@@ -55,10 +62,6 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
 _List any references you used here._
