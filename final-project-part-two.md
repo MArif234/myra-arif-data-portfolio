@@ -47,5 +47,4 @@ For Part I, I really was just trying to understand first-gen students and explai
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I used Gemini to help craft images of what I'm thinking of doing for this project. The final images and visualizations will be made via Lovable, but for now I drafted things in Gemini to just get some ideas for part two. 
