@@ -1,19 +1,28 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+Lovable Link: https://layanlibrary.com/about
 
-Text here!
+Please note: in order to access my project, you have to scroll down and click on the button called college finances, and then from there you can click through my whole project that I made. 
+
+Please note 2: I included citations in my project as I was using them, and my final citations for everything that I used in my project are on the bottom of this GitHub page. There's no reference section on my actual Lovable page. 
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Text here!
+I really narrowed down the first generation college story in a way that was lot easier to understand compared to the plan that I had in part two. On the technical side, I realized that I will be using Lovable, and I figured out what visuals I wanted to use. I really relied on personas to get the story across. 
+
+The main change that I made is I really tightened the persona story. I turned this into a story about Elias and Laia, where Elias is a continuing-gen student who went to a private university and owed minimal loans, and Laia is a first-generation college student who attended a state school but owed significantly more loans. Then, instead of creating a graphic for how many first-generation college students there are in the US, I decided to lay that out as a big statistic on the screen (because the 8.2 million number is doing a lot more talking than a graphic would). I also made sure to put that 8.2 million population into context by comparing that number to approximately what the population of New York City is. Through there, I used my design skills in Lovable, where I made a globe, where the user could zoom in on New York City to show that statistic. 
+
+Instead of using tables to talk about the different types of schools, their cost, and how many first-generation students attend, I decided to turn that into a bar graph. I showed, out of 100 first-generation college students, how many of those students were going to different types of colleges, such as community college, public university, a private nonprofit, or private for-profit. I clearly showed with the bar graph that first-generation college students would usually start at community college or public university (schools that are cheaper). 
+
+From there, I had other scrolling bars that then showed how much each of those schools cost. My main purpose was to show that community college and public university are the cheaper options compared to the private university options. And instead of leading into more graphics, I tied it back into the story on how Laia chose the original cheaper school. She went to the state school, but she still ended up owing more in debt than Elias, which is really interesting. I moved forward with the story to then talk about why that could happen. 
+
+Then, I decided to bring in a statistic of how often first-gen households and continuing-gen households talk about scholarships. I created graphics using Canva AI that showed that continuing-gen students have a lot more conversations about financing college than first-generation college students (because the majority of first-generation college students have to figure that out on their own). From there, I illustrated that there was a clear information gap because of the lack of the support system, and then I led that into explaining what my tool is and urging people to sign up for the waitlist as my call to action.
+
+Overall, in Part 3, I completely changed the technical resources that I used. I tightened up the story, and I changed some of my graphics to make the story more visible than the data. My main goal with this was to make sure that I could emphasize that these are all different stories about students, and first-gen students aren't just a statistic. I'm trying to emphasize how much of an information gap there is. This is a topic that I'm incredibly passionate about, and I spent around 15 hours making design decisions and visual decisions to make this project come to life. 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
-
-Text here!
+The audience for my project is first-generation college students themselves and educators that would want to know about this tool so that they could make the first-generation college students they mentor or teach aware of them. Throughout my project, I looked to see, on my LinkedIn, what types of topics were of interest to first-generation students who follow my page. That's what led me to focus on the financial aspect and specifically go with this specific story. I also consulted with my professor during office hours on numerous occasions to talk about different ways that I could use data visualizations to make my story more concise and easy to understand. He was the one who made suggestions, such as writing a statistic rather than creating a visualization, explaining to me how personas can be used in data storytelling, and advising me on certain graphics to make my story clear. 
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
