@@ -25,21 +25,25 @@ Overall, in Part 3, I completely changed the technical resources that I used. I 
 The audience for my project is first-generation college students themselves and educators that would want to know about this tool so that they could make the first-generation college students they mentor or teach aware of them. Throughout my project, I looked to see, on my LinkedIn, what types of topics were of interest to first-generation students who follow my page. That's what led me to focus on the financial aspect and specifically go with this specific story. I also consulted with my professor during office hours on numerous occasions to talk about different ways that I could use data visualizations to make my story more concise and easy to understand. He was the one who made suggestions, such as writing a statistic rather than creating a visualization, explaining to me how personas can be used in data storytelling, and advising me on certain graphics to make my story clear. 
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
+The main decision that I made with design was really incorporating the story through visuals made by Canva AI, rather than just using basic data visualizations throughout. I really liked how I used actual visuals for Laia and Elias and tried to display as much emotion as possible, such as showing how shocked Elias was when he saw his private school tuition without any scholarships. I also included visuals inside of one of the bar graphs to really show that when you have a support system with scholarships, you're sitting down with their parents and talking about it. However, when you're a first-gen student and you don't have a support system on how to finance college, you're mostly struggling by yourself. It's not just about numbers, it's also about the story, and I feel like I really did that with the visuals throughout my project. 
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+ Canva AI for creating some visuals 
+ Claude AI and Gemini AI for writing prompts in Lovable to create the  visualizations that I needed 
+ Lovable for the platform creation
+ https://www.firstgenforward.org/our-opportunity (8.2 million statistic)
+ [https://s-media.nyc.gov/agencies/dcp/assets/files/pdf/data-tools/population/population- estimates/new-york-city-population-estimates-and-trends-march-2026.pdf](https://s-media.nyc.gov/agencies/dcp/assets/files/pdf/data-tools/population/population-estimates/new-york-city-population-estimates-and-trends-march-2026.pdf) (NYC Population Estimate)
+ https://pnpi.org/factsheets/first-generation-students/ (Used the fact sheet)
+ https://www.pellinstitute.org/the-indicators-of-higher-education-equity-in-the-united-states-2024-50-year-historical-trend-report/ (Used the report)
+ https://nces.ed.gov/programs/coe/indicator/cua/undergrad-costs (pricing for institutions)
+ https://www.salliemae.com/content/dam/slm/writtencontent/Research/SLM_How-America-Completes-College-Research-report.pdf (stats for scholarship conversations)
+ 
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
+ I used Lovable to create this project, which, technically, I believe, is an AI tool. I also used Canva AI to make some visuals. I used Claude and Gemini AI to help me construct prompts to put into Lovable to make my project. They were also used to help with brainstorming for visuals and writing some of the text on the website in a clear and concise way. 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+Overall, I believe this project turned out a lot better than I expected. I'm really glad that I thought outside the box with my design decisions and made a project that I'm really proud to present and talk to other people about. 
 
-Text here!
 
 
